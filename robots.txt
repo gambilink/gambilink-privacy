@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gambilink.github.io/gambilink-privacy/sitemap.xml
